@@ -8,7 +8,7 @@
 
 🤝 I’m looking for help with Data Science & Machine Learning
 
-👨‍💻 All of my projects are available at https://github.com/MohitShrivastava7/MohitShrivastava7
+👨‍💻 All of my projects are available at https://github.com/MohitShrivastava7?tab=repositories
 
 💬 Ask me about Python, Data Analysis, SQL, Machine Learning, Data Visualization
 
