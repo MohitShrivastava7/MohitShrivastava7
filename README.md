@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**MohitShrivastava7/MohitShrivastava7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m recently completed my Data Science bootcamp from upGrad Knowledgehut
 
-Here are some ideas to get you started:
+🌱 I’m currently doing internship from NULLCLASS EDTECH PRIVATE LIMITED
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on Machine Learning Projects
+
+🤝 I’m looking for help with Data Science & Machine Learning
+
+👨‍💻 All of my projects are available at https://github.com/MohitShrivastava7/MohitShrivastava7
+
+💬 Ask me about Python, Data Analysis, SQL, Machine Learning, Data Visualization
+
+📧 My email id :- mohitverma7596@gmail.com
+
+📲 Contact no. :- 7903938760
+
+🫂 Linkedin id :- www.linkedin.com/in/mohit-shrivastava-106b80209
+
